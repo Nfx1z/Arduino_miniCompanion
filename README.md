@@ -34,14 +34,9 @@ test_*.ino Individual sensor/module tests:
 - test_05_pir.ino PIR motion sensor test
 - test_06_dfplayer.ino DFPlayer audio module test
 - spec.txt Hardware pinouts, component dimensions, animation frame timing specs, and behavior documentation
-
-companion_robot.txt Duplicate of main sketch (reference)
-
-frame/ (Empty directory for future frame assets)
-
-img/ (Empty directory for future images)
-
-Code
+- `companion_robot.txt`: Duplication of main sketch for future reference
+- `frame/` : Based image for the frame of the companion mode using OLED pixel editor
+- `img/` : Physical output of the companion 
 
 ### How It Fits Together
 
